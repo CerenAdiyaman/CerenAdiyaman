@@ -30,27 +30,18 @@
 
 ## `01` — whoami
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" src="assets/ceren.png" width="250" alt="hello, my name is Ceren Adıyaman" />
 
 ```yaml
-interests:  [ Artificial Intelligence, Machine Learning, Cloud Technologies ]
-building:   [ AI agents, computer vision, backend systems ]
+interests: [ AI, Machine Learning, Cloud ]
+building:  [ agents, computer vision, backend ]
 ```
-
-</td>
-<td width="42%" align="center" valign="top">
-
-<img src="assets/ceren.png" width="260" alt="hello, my name is Ceren Adıyaman" />
-
-</td>
-</tr>
-</table>
 
 Computer Engineering graduate interested in artificial intelligence, machine learning and cloud technologies.
 
 I work on AI agents, computer vision, backend development and cloud infrastructure, and I like projects that use real-world data and actually get deployed.
+
+<br clear="right"/>
 
 ---
 
@@ -113,11 +104,6 @@ I work on AI agents, computer vision, backend development and cloud infrastructu
 ## `04` — activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CerenAdiyaman&theme=highcontrast&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=1B3A6B&currStreakNum=E63946" />
-  <img src="https://streak-stats.demolab.com?user=CerenAdiyaman&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=1B3A6B&sideLabels=1B3A6B&dates=6E7681&stroke=1B3A6B&currStreakNum=E63946" alt="Contribution streak" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CerenAdiyaman&hide_border=true&bg_color=00000000&title_color=E63946&color=C9D1D9&line=E63946&point=FFFFFF&area=true&area_color=1B3A6B" />
