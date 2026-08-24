@@ -1,94 +1,139 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ✦  HEADER  ✦                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                            ✦  HEADER  ✦                          -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ceren+%E2%9C%A8;AI%2FML+Engineer+%26+Full-Stack+Developer;Cloud+%7C+DevOps+%7C+Deep+Learning;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/melting-dark.png" />
+  <img src="assets/melting-light.png" width="260" alt="a hat, or a boa digesting an elephant" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1F3D7A&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ceren+%E2%80%94+aka+cego+%E2%9C%A8;Cloud+%26+AI+Engineer;Deep+Learning+%7C+MLOps+%7C+Kubernetes;From+notebook+to+production+endpoint+%F0%9F%9A%80" alt="Typing SVG" />
+
+<samp>B.Sc.&nbsp;Computer&nbsp;Engineering,&nbsp;ESOGÜ&nbsp;&nbsp;·&nbsp;&nbsp;Cloud&nbsp;&&nbsp;AI&nbsp;Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Türkiye&nbsp;🇹🇷</samp>
 
 <br/>
 
-`Computer Engineer` • `Bursa, Türkiye 🇹🇷` • `Coffee-driven ☕`
+<a href="https://cerenadiyaman.com/" title="Portfolio"><img src="assets/portfolio.svg" alt="Portfolio" height="48" /></a>
+<a href="https://www.linkedin.com/in/ceren-adıyaman" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" /></a>
+<a href="mailto:cerenadiyamn@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" /></a>
+<br/>
 
-<a href="https://cerenadiyaman.com/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ceren-adıyaman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/cerenadiyamn"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=CerenAdiyaman&label=Profile%20views&color=8B5CF6&style=flat" alt="views" />
+<br/>
+
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                            ✦  WHOAMI  ✦                          -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+
+## `01` — whoami
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```yaml
+interests:  [ Artificial Intelligence, Machine Learning, Cloud Technologies ]
+building:   [ AI agents, computer vision, backend systems ]
+```
+
+</td>
+<td width="42%" align="center" valign="top">
+
+<img src="assets/ceren.png" width="260" alt="hello, my name is Ceren Adıyaman" />
+
+</td>
+</tr>
+</table>
+
+Computer Engineering graduate interested in artificial intelligence, machine learning and cloud technologies.
+
+I work on AI agents, computer vision, backend development and cloud infrastructure, and I like projects that use real-world data and actually get deployed.
+
+---
+
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                            ✦  STACK  ✦                           -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+
+## `02` — stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,java,spring,postgres,gcp,docker,kubernetes,git&perline=13" alt="Python, PyTorch, scikit-learn, OpenCV, FastAPI, Java, Spring Boot, PostgreSQL, GCP, Docker, Kubernetes, Git" />
+<img src="assets/huawei-cloud.svg" alt="Huawei Cloud" height="48" />
+
+<sub>
+<img src="https://img.shields.io/badge/anomaly_detection-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/time--series-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/computer_vision-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/reinforcement_learning-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs_&_agents-1a1b27?style=flat-square" />
+<img src="https://img.shields.io/badge/edge_inference-1a1b27?style=flat-square" />
+</sub>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ✦  ABOUT  ✦                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                          ✦  HIGHLIGHTS  ✦                        -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
 
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ✦  TECH STACK  ✦                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-**🤖 AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**🌐 Full-Stack**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-**☁️ Cloud & DevOps**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
----
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ✦  TROPHIES  ✦                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Highlights
+## `03` — highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CerenAdiyaman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="assets/trophy.png" width="110" alt="trophy" />
+
+### Huawei ICT Practice Competition
+
+<br/>
+
+| | Global Final | Europe Regional |
+|:--|:--:|:--:|
+| **Cloud Track** &nbsp;`2025–2026` | 🥈 &nbsp;2nd | 🥇 &nbsp;1st |
+| **Computing Track** &nbsp;`2024–2025` | 🥉 &nbsp;3rd | 🥇 &nbsp;1st |
+
+<sub>
+<b>Cloud</b> — cloud-native application challenges: Kubernetes (CCE), AI workloads, end-to-end deployment.<br/>
+<b>Computing</b> — Linux system administration, networking, cloud infrastructure, performance tuning.
+</sub>
 
 </div>
 
-> 🥇 2× Top-3 @ Huawei ICT Competition Global Finals &nbsp;•&nbsp; 🎓 TÜBİTAK Researcher (Autonomous EV Fleet) &nbsp;•&nbsp; 📜 NVIDIA DL & Agentic AI Certified
+---
+
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                           ✦  ACTIVITY  ✦                         -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+
+## `04` — activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CerenAdiyaman&theme=highcontrast&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=1B3A6B&currStreakNum=E63946" />
+  <img src="https://streak-stats.demolab.com?user=CerenAdiyaman&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakLabel=E63946&sideNums=1B3A6B&sideLabels=1B3A6B&dates=6E7681&stroke=1B3A6B&currStreakNum=E63946" alt="Contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CerenAdiyaman&hide_border=true&bg_color=00000000&title_color=E63946&color=C9D1D9&line=E63946&point=FFFFFF&area=true&area_color=1B3A6B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CerenAdiyaman&hide_border=true&bg_color=00000000&title_color=1B3A6B&color=1B3A6B&line=E63946&point=1B3A6B&area=true&area_color=1B3A6B" alt="Contribution graph" width="92%" />
+</picture>
+
+</div>
 
 ---
+
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--                            ✦  FOOTER  ✦                          -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 
-<a href="https://cerenadiyaman.com/">🌐 Portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ceren-adıyaman">💼 LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://www.kaggle.com/cerenadiyamn">📊 Kaggle</a>
-
-<br/><br/>
-
-<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 
 </div>
