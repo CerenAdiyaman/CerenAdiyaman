@@ -24,29 +24,6 @@
 <!--                          ✦  ABOUT  ✦                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👩‍💻 About Me
-
-```python
-class Ceren:
-    def __init__(self):
-        self.name        = "Ceren Adıyaman"
-        self.role        = "AI/ML Engineer & Full-Stack Developer"
-        self.education   = "B.Sc. Computer Engineering @ Eskişehir Osmangazi Uni."
-        self.now         = "Project Intern @ HORSE (OYAK) + Freelance Dev"
-        self.focus       = ["Machine Learning", "Cloud & DevOps", "RAG / Agentic AI"]
-        self.languages   = ["Türkçe 🇹🇷", "English (C1) 🇬🇧", "Français (learning) 🇫🇷"]
-        self.fun_fact    = "Collects Spider-Man comics & tracks every film I watch 🎬"
-
-    def current_goal(self):
-        return "Building AI systems that actually ship 🚀"
-```
-
-- 🔭 Currently working on **RAG systems** and **agentic AI** pipelines
-- 🌱 Deep-diving into **LLM engineering** & production ML
-- 🏆 Two-time **top-3 finisher** at the **Huawei ICT Competition Global Finals**
-- 📜 **NVIDIA-certified** in Deep Learning & Agentic AI
-- 💬 Ask me about **ML, cloud, FastAPI, React/React Native**
-- 🎯 Ex-intern @ **Huawei Istanbul** (Cloud/DevOps) & **Microsoft Türkiye** (AI Innovators)
 
 ---
 
@@ -83,42 +60,9 @@ class Ceren:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ✦  GITHUB STATS  ✦                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CerenAdiyaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerenAdiyaman&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CerenAdiyaman&theme=tokyonight&hide_border=true&fire=8B5CF6&ring=8B5CF6&currStreakLabel=8B5CF6" />
-
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ✦  FEATURED PROJECTS  ✦                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌬️ **[Wind Turbine](https://github.com/CerenAdiyaman/wind-turbine)** | Wind turbine analysis / prediction | `Python` |
-| 🪵 **[Wood Anomaly Detection](https://github.com/CerenAdiyaman/Wood-Anomaly-Detection-and-Segmentation)** | Anomaly detection & segmentation on wood surfaces | `Deep Learning` `CV` |
-| ⚡ **[EV Energy Estimation](https://github.com/gurkankaraman/EV-Energy-Consumption-Estimation)** | ML model for EV energy consumption from SUMO simulations | `ML` `Jupyter` |
-| 🔁 **[DPEaaS](https://github.com/CerenAdiyaman/DPEaaS)** | Auto preview environments on Kubernetes per pull request | `React` `K8s` |
-| 🌾 **[IoT System Management](https://github.com/Avkar-Yazilim/iot-system-management)** | IoT device & sensor monitoring for agriculture | `JavaScript` `IoT` |
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ✦  TROPHIES  ✦                           -->
@@ -138,7 +82,6 @@ class Ceren:
 
 <div align="center">
 
-### 💜 Let's build something great together!
 
 <a href="https://cerenadiyaman.com/">🌐 Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/ceren-adıyaman">💼 LinkedIn</a> &nbsp;·&nbsp;
